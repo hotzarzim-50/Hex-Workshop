@@ -205,4 +205,4 @@ This repository serves as the official landing page for Hex Workshop. The softwa
 **Get the most recent version of Hex Workshop today!**
 
 ---
-**Last updated:** 2026-11-07 20:38:46 UTC
+**Last updated:** 2026-11-08 00:09:23 UTC
